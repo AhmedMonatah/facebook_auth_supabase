@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lung_Cancer</string> <!-- أو اسم التطبيق الخاص بك -->
+    <string name="facebook_app_id">493869690417128</string>
+    <string name="facebook_client_token">5cc1dea8b17e6d54d8247d20737684ae</string>
+    <string name="fb_login_protocol_scheme">fb20259c64ce3fbd87b174124010b4aad1</string>
+</resources>
